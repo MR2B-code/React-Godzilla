@@ -4,9 +4,21 @@ export default function Navbar() {
       <h2>GODZILLA</h2>
 
       <ul>
-        <li>Historia</li>
-        <li>Películas</li>
-        <li>Curiosidades</li>
+        <li>
+          <a href="#historia">Historia</a>
+        </li>
+
+        <li>
+          <a href="#peliculas">Películas</a>
+        </li>
+
+        <li>
+          <a href="#kaijus">Kaijus</a>
+        </li>
+
+        <li>
+          <a href="#curiosidades">Curiosidades</a>
+        </li>
       </ul>
     </nav>
   );

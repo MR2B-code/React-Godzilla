@@ -60,7 +60,7 @@ export default function Peliculas() {
         );
 
   return (
-    <section className="peliculas">
+<section id="peliculas" className="peliculas">
 
       <h2>PELÍCULAS ICÓNICAS</h2>
 

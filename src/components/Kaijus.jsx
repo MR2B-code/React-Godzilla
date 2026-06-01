@@ -10,7 +10,7 @@ export default function Kaijus() {
   ];
 
   return (
-    <section className="kaijus">
+   <section id="kaijus" className="kaijus">
 
       <h2>KAIJUS LEGENDARIOS</h2>
 

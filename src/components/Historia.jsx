@@ -1,6 +1,6 @@
 export default function Historia() {
   return (
-    <section className="historia">
+<section id="historia" className="historia">
 
       <div className="historia-texto">
         <h2>EL ORIGEN DE GODZILLA</h2>
